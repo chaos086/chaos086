@@ -3,7 +3,7 @@
 <h3 align="center">"No solo escribo código… construyo sistemas con intención."</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="200"/>
+  <img src="https://cdn.dribbble.com/userupload/42421979/file/original-2b972d38662cf2d12fede3d824f906bd.gif" width="300"/>
 </p>
 
 ---
@@ -13,10 +13,10 @@
 ```java
 public class Chaos086 {
 
-    String name = "Alejandro Marín Hernández";
+    String name = "Jack Alejandro Marín Hernández";
     String alias = "Chaos";
-    String role = "Systems Engineering Student";
-    String location = "Colombia 🇨🇴";
+    String role = "Systems and Computer Engineer";
+    String location = "Colombia (CO)";
 
     String[] languages = {
         "Java", "Python", "PHP", "HTML", "CSS"
