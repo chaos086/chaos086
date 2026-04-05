@@ -3,7 +3,7 @@
 <h3 align="center">"No solo escribo código… construyo sistemas con intención."</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif](https://dribbble.com/shots/6749707-Programar-1gif4day/attachments/6749707-Programar-1gif4day?mode=media)" width="200"/>
+  <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="200"/>
 </p>
 
 ---
