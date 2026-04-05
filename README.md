@@ -46,11 +46,11 @@ public class Chaos086 {
 
 <img align='right'
 src="https://media1.tenor.com/m/MUAgDOboB1EAAAAC/vertical-discord-line.gif" 
-width="28">
+width="20">
 
 <img align='left'
 src="https://media1.tenor.com/m/MUAgDOboB1EAAAAC/vertical-discord-line.gif" 
-width="28">
+width="24">
 
 ```bash
 I am passionate about software, music, literature and writing, video games, dance, physical activity, and sunsets.
