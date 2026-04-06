@@ -1,3 +1,4 @@
+<!--apertura-->
 <h1 align="center">❄️Jack Alejandro Marín Hernández❄️</h1>
 <h2 align="center">"Systems and Computer Engineer/Ingeniero en sistemas y computación"</h2>
 <h3 align="center">"No solo escribo código… construyo sistemas con intención."</h3>
@@ -7,7 +8,7 @@
 </p>
 
 ---
-
+<!--Presentación-->
 
 <h2 align="left"> 
   <img src="https://media.tenor.com/fSsxftCb8w0AAAAj/pikachu-running.gif" width="50"> Identity
@@ -16,6 +17,7 @@
 <img align="left"
 src="https://c.tenor.com/OackI9-PD5sAAAAd/tenor.gif" 
 width="300">
+
 ```java
 public class Chaos086 {
 
@@ -39,9 +41,9 @@ public class Chaos086 {
     }
 }
 ```
-<h2 align="center"
-  
-<img src="https://media.tenor.com/fSsxftCb8w0AAAAj/pikachu-running.gif" width="50"> About me
+<!--Sobre mis-->
+<h2 align="center">
+  <img src="https://media.tenor.com/fSsxftCb8w0AAAAj/pikachu-running.gif" width="50"> About me
 </h2>
 
 <img align='right'
@@ -81,13 +83,10 @@ allowing me to participate in and earn recognition in various competitions.
 I define myself as an ethical, loyal, transparent, and committed professional, understanding that integrity and ethics
 are fundamental pillars for building trust and carrying out anywork responsibly.
 ```
+<!--Tecnologías-->
 
-
-
-
-<h2 align="Center"
-  
-<img src="https://media.tenor.com/fSsxftCb8w0AAAAj/pikachu-running.gif" width="50"> Technologys
+<h2 align="Center">
+  <img src="https://media.tenor.com/fSsxftCb8w0AAAAj/pikachu-running.gif" width="50"> Technologys
 </h2>
 
 
@@ -108,9 +107,47 @@ are fundamental pillars for building trust and carrying out anywork responsibly.
 
 
 
-<h4 align = "center"
+<h4 align = "center">
+  <p>
+    <img src="https://projectpokemon.org/home/uploads/monthly_2021_01/large.d3d6544a14e4d67d-epic-pokemon-battle-tumblr.gif.71d51d13a87bca3ccea63ed257f27b82.gif">
+  </p>
+</h4>
 
-<p><img src="https://projectpokemon.org/home/uploads/monthly_2021_01/large.d3d6544a14e4d67d-epic-pokemon-battle-tumblr.gif.71d51d13a87bca3ccea63ed257f27b82.gif" 
 
+<!--Redes Sociales-->
+
+<h2 align="center">
+  <img src="https://media.tenor.com/fSsxftCb8w0AAAAj/pikachu-running.gif" width="50"> Connect with me:
+</h2>
+
+<p align="center">
+  <a href="https://www.facebook.com/jackmaster1185/?locale=es_LA">
+    <img src="https://img.shields.io/badge/@JackMaster-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+      </a>&nbsp;&nbsp    
+  <a href="https://www.instagram.com/whitediamond086/">
+    <img src="https://img.shields.io/badge/@WhiteDiamond086-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+      </a>&nbsp;&nbsp;
+  <a href="https://steamcommunity.com/profiles/76561198819753001/">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+      </a>&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@_jack.master_">
+    <img src="https://img.shields.io/badge/@Jack.Master-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+      </a>&nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/31r4zc47wtydpziwovpf6ft36qb4?si=c16ad5bcc6a54817">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+      </a>&nbsp;&nbsp;
+  <a href="https://github.com/chaos086">
+    <img src="https://img.shields.io/badge/@chaos086-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<h4 align = "center">
+  <p>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJheHFtZzhycGpqZXdsbGFzcXl3MHhka2sydTZvMGFzdDRheDlndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N4IfsN0Hio1Py/giphy.gif" 
+      width="700">
+  </p>
+</h4>
+
+<h4 align="center">𓆩✧𓆪 Requiescat in pace 𓆩✧𓆪</h4>
 
 ---
