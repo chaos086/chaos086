@@ -1,6 +1,7 @@
 <!--apertura-->
 <h1 align="center">❄️Jack Alejandro Marín Hernández❄️</h1>
 <h2 align="center">Systems and Computer Engineer/Ingeniero en sistemas y computación</h2>
+<h3 align="center">He doesn't just write code... he builds systems with intention.</h3>
 <h3 align="center">No solo escribo código… construyo sistemas con intención.</h3>
 
 <p align="center">
